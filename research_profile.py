@@ -28,11 +28,14 @@ if selection == "Home":
     with col2:
         st.header("About Me")
         st.write("""
-        I am a PhD Candidate at the University of Nairobi, bridging the gap between 
-        Condensed Matter Physics and practical Solar Energy Applications. 
-        By day, I am at the quantum level;using High-Performance Computing to 
-        engineer novel perovskites. By heart, I am a field engineer;designing 
-        and installing systems that bring light to communities.
+        PhD candidate specializing in condensed matter physics, with a focus on computational research. 
+        My academic journey in Physics has been deeply intertwined with my passion 
+        for solar energy applications. Currently, 
+        I am exploring the fascinating realm of optoelectronics,working on computational study to enhance PV performance t
+        hrough band gap engineering of novel perovskite materials.
+        Beyond my academic pursuits,I am a licensed solar technician with hands-on experience in installing, maintaining, 
+        and optimizing solar energy systems. My work in the field combined with my research fuels my mission to 
+          bring reliable, clean energy solutions to communities.
         """)
         st.subheader("Research Focus")
         st.write("Optoelectronics, Band Gap Engineering, and PV performance optimization.")
