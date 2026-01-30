@@ -42,8 +42,6 @@ if selection == "Home":
 # --- 📊 DATA LAB SECTION ---
 elif selection == "Data Lab":
     st.header("Interactive Material Science Lab")
-    st.write("Explore pre-loaded data or upload your own Quantum ESPRESSO results.")
-
     # 1. Initialize memory with your actual convergence data 
     if 'research_data' not in st.session_state or not st.session_state['research_data']:
         # Real data from your ecut.dat file 
