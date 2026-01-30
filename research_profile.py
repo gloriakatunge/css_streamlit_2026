@@ -106,7 +106,7 @@ elif selection == "Technical Stack":
     col_a, col_b = st.columns(2)
     with col_a:
         st.write("**Simulation & Physics**")
-        st.code("Quantum ESPRESSO\nDesign and sizing of Solar PV systems\nDFT Formalism")
+        st.code("Quantum ESPRESSO\nSolar  PV design, sizing, installation, and maintenance\nDFT Formalism")
     with col_b:
         st.write("**Data & Deployment**")
         st.code("Python (Pandas,numpy,Matplotlib....)\nLinux/HPC Cluster")
