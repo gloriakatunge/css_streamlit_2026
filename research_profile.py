@@ -31,8 +31,7 @@ if selection == "Home":
         PhD candidate specializing in condensed matter physics, with a focus on computational research. 
         My academic journey in Physics has been deeply intertwined with my passion 
         for solar energy applications. Currently, 
-        I am exploring the fascinating realm of optoelectronics,working on computational study to enhance PV performance t
-        hrough band gap engineering of novel perovskite materials.
+        I am exploring the fascinating realm of optoelectronics,working on computational study to enhance PV performance through band gap engineering of novel perovskite materials.
         Beyond my academic pursuits,I am a licensed solar technician with hands-on experience in installing, maintaining, 
         and optimizing solar energy systems. My work in the field combined with my research fuels my mission to 
           bring reliable, clean energy solutions to communities.
